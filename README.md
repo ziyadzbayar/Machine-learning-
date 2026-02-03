@@ -1,29 +1,28 @@
-# Machine-learning-
+# Machine Learning
 
-## 📌 Description
-Ce dépôt contient des travaux pratiques (TP) réalisés dans le cadre de cours en Machine Learning.  
-Il s'agit d'un tp éducatif personnel visant à regrouper différents exercices, jeux de données et scripts d'analyse.
+## Description
+Ce dépôt contient les travaux pratiques réalisés au cours d'une formation sur le Machine Learning. Il s'agit d'un travail personnel et éducatif visant à regrouper diverses exercices, données et scripts d'analyse.
 
-## 🎯 Objectifs du projet
-- Appliquer les concepts fondamentaux du Machine Learning
+## Objectifs du projet
+- Mettre en œuvre les notions de base du Machine Learning
 - Manipuler et analyser des données réelles
-- Implémenter des modèles de régression et de classification
-- Comprendre le prétraitement des données et l'évaluation des modèles
+- Mettre en place des modèles de regression et classification
+- Comprendre la préprocessing et l'évaluation des données
 
-## 📂 Contenu du dépôt
-- `RLM_ventes.zip` :  
-  Archive contenant des données et scripts liés à un projet de régression linéaire multiple sur des données de ventes.
-- Autres fichiers :  
-  Scripts Python, notebooks ou fichiers de données utilisés dans les TPs.
+## Description et contenu du dépôt
+- `RLM_ventes.zip`:
+  Ce fichier contient les données et scripts pertinents pour le projet de regression lineaire multiple.
+- D'autres fichiers:
+  Ce sont les scripts, fichiers notebooks et données utilisées pour les travaux pratiques.
 
-## 🧠 Concepts abordés
-- Régression linéaire simple et multiple
-- Prétraitement des données
-- Analyse exploratoire (EDA)
-- Séparation train/test
-- Évaluation des modèles (MSE, R², etc.)
+## Notions abordées
+- Regression lineaire simple et multiple
+- Préprocessing
+- EDA (Exploratory Data Analysis)
+- Echantillonnage train/test
+- Évaluation des données
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 - Python
 - Pandas
 - NumPy
@@ -31,8 +30,8 @@ Il s'agit d'un tp éducatif personnel visant à regrouper différents exercices,
 - (Optionnel) Statsmodels
 - Git & GitHub
 
-## 🚀 Installation & Utilisation
-1. Cloner le dépôt :
+## Installation & Utilisation
+1. Cloner le dépôt:
 ```bash
 git clone https://github.com/ziyadzbayar/Machine-learning-.git
-
+```
