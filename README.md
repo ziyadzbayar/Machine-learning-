@@ -35,3 +35,17 @@ Il s'agit d'un tp éducatif personnel visant à regrouper différents exercices,
 1. Cloner le dépôt :
 ```bash
 git clone https://github.com/ziyadzbayar/Machine-learning-.git
+
+##Extraire l’archive :
+
+unzip RLM_ventes.zip
+
+
+##Installer les dépendances :
+
+pip install pandas numpy scikit-learn statsmodels
+
+
+##Exécuter les scripts Python :
+
+python nom_du_script.py
